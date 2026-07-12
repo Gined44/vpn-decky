@@ -1,0 +1,11 @@
+{
+  "name": "vpn-decky",
+  "author": "qq",
+  "flags": ["root"],
+  "api_version": 0,
+  "publish": {
+    "tags": ["vpn", "network"],
+    "description": "VLESS / Hysteria2 VPN клиент прямо в Decky",
+    "image": ""
+  }
+}
